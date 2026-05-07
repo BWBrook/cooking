@@ -10,6 +10,11 @@ Last updated: 2026-05-07
 
 ### 1. Medieval-Style Pease Pottage
 
+Status:
+
+- Drafted as `recipes/historical/medieval-pease-pottage-slow-cooker.md`.
+- Supporting source note: `research/2026-05-07-medieval-pease-pottage.md`.
+
 Why now:
 
 - Three large packets of dry green split peas are a clear use-soon pantry item.

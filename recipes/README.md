@@ -5,6 +5,8 @@ and templates.
 
 Suggested subfolders:
 
+- `historical/` for historically anchored savoury recipes and practical
+  reconstructions,
 - `weekly-candidates/` for recipe ideas being considered for a coming week,
 - `templates/` for reusable drafting formats,
 - future cuisine or format folders as patterns emerge.
