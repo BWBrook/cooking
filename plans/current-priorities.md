@@ -31,6 +31,13 @@ Good format:
 
 ### 2. Pantry-Diversity Spice and Herb Rotation
 
+Status:
+
+- First smaller herb/egg candidate drafted as
+  `recipes/historical/medieval-herbolace-erbolate-herb-egg-cake.md`.
+- Supporting source note:
+  `research/2026-05-07-medieval-herbolace-erbolate.md`.
+
 Why now:
 
 - Dry herbs and spices are specifically underused.
