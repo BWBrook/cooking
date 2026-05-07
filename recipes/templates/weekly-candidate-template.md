@@ -4,6 +4,8 @@ status: candidate
 created:
 target_week:
 serves:
+yield:
+equipment:
 stock_base:
 on_demand:
 specialty_to_buy:
@@ -33,7 +35,11 @@ Why this is worth considering now.
 
 - Main dish, side, sauce, or component:
 - Likely cooking day:
+- Primary equipment:
+- Active attention:
+- Gas-use fit:
 - Leftover potential:
+- Nutrition/portion tracking:
 - Risk level:
 
 ## Adaptation Notes

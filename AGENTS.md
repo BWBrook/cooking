@@ -87,8 +87,17 @@ need to be bought.
 - Fresh herbs, fresh vegetables, meat, and most fresh seafood are on-demand
   weekly purchases, not stock.
 - Greek yogurt is a normal staple.
+- Free-range eggs are a normal stock strength because the user has active
+  laying hens.
 - Olive oil is the default cooking fat unless butter, sesame oil, or another
   fat is clearly better.
+- Use gas stovetop cooking thoughtfully: avoid long continuous gas simmering
+  and never assume unattended open-flame cooking.
+- Avoid Teflon/nonstick-coated cookware because cockatiels are in the house;
+  prefer stainless steel, cast iron, glass, oven, slow cooker, microwave, air
+  fryer, or rice cooker methods.
+- Default weekly planning shape is two mains plus support components for one
+  person, with planned leftovers.
 - The strongest current pantry axes are pulses/grains, canned fish, Japanese
   umami, Eastern Mediterranean/Middle Eastern, North African, Indian-adjacent,
   and historical-modern grain cookery.

@@ -7,7 +7,8 @@ into normal stock inventory.
 
 Recommended sections:
 
-- on-demand perishables,
-- stock replenishment,
-- recipe-specific non-perishables,
-- optional specialty upgrades.
+- weekly supermarket delivery, usually Woolworths or Coles,
+- Hill Street pickup, useful on Monday, Wednesday, or Friday,
+- dedicated specialty mission, especially Spice World,
+- online or deferred purchases,
+- optional upgrades.

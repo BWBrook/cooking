@@ -12,9 +12,16 @@ What this week is trying to do.
 
 ## Selected Recipes
 
-| Recipe | Status | Planned day | Notes |
-| --- | --- | --- | --- |
-|  |  |  |  |
+| Recipe | Status | Planned day | Equipment | Target meals | Notes |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+## Weekly Rhythm
+
+- Weekend cook:
+- Work-from-home cook:
+- Bread/baking interaction:
+- Takeaway or bits-and-pieces day:
 
 ## Stock Ingredients Used
 
@@ -36,9 +43,21 @@ What this week is trying to do.
 
 -
 
+## Equipment and Attention Notes
+
+- Long unattended cooking:
+- Gas stovetop use:
+- Air fryer/microwave/rice cooker support:
+
 ## Leftover Plan
 
 -
+
+## Portion and Nutrition Notes
+
+- Batch weights to record:
+- Portion weights to target:
+- Garmin tracking notes:
 
 ## Linked Shopping List
 

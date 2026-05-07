@@ -5,6 +5,8 @@ status: draft
 created:
 last_updated:
 serves:
+yield:
+equipment:
 stock_base:
 on_demand:
 specialty_to_buy:
@@ -21,6 +23,8 @@ What this recipe is trying to achieve.
 - Stock strengths used:
 - On-demand ingredients needed:
 - Specialty items needed:
+- Equipment path:
+- Active-attention fit:
 
 ## Ingredients
 
@@ -52,8 +56,23 @@ What this recipe is trying to achieve.
 ## Timing
 
 - Prep time:
-- Cook time:
+- Active time:
+- Inactive/elapsed time:
 - Make-ahead options:
+
+## Equipment and Fuel Notes
+
+- Primary equipment:
+- Gas use:
+- Unattended cooking:
+- Reheating method:
+
+## Batch and Nutrition Notes
+
+- Target meals:
+- Finished batch weight:
+- Target portion weight:
+- Garmin entry strategy:
 
 ## Result Targets
 

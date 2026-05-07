@@ -16,6 +16,7 @@ Short description of the dish or meal.
 
 - Recipe or candidate:
 - Planned servings:
+- Planned equipment:
 - Planned stock ingredients:
 - Planned on-demand ingredients:
 
@@ -36,6 +37,13 @@ Short description of the dish or meal.
 ## Observations During Cooking
 
 -
+
+## Batch and Portion Notes
+
+- Finished batch weight:
+- Portion count:
+- Typical portion weight:
+- Garmin tracking notes:
 
 ## Outcome
 

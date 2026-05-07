@@ -20,6 +20,8 @@ Recommended practice:
 - one file per recipe family,
 - mark recipe status clearly,
 - record stock ingredients separately from on-demand purchases,
+- record equipment path, gas-use fit, active attention, and batch/portion
+  assumptions,
 - link to related cook logs and research notes,
 - promote a recipe from trial to stable only after repeated success,
 - after processing `ingest.md`, move useful content into the correct recipe,

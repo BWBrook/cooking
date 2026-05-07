@@ -6,19 +6,44 @@ status: draft
 
 # Shopping List
 
-## On-Demand Perishables
+## Weekly Supermarket Delivery
 
 -
 
-## Stock Replenishment
+Usually Woolworths or Coles.
+
+## Hill Street Pickup
 
 -
 
-## Recipe-Specific Non-Perishables
+Useful on Monday, Wednesday, or Friday.
+
+## Dedicated Specialty Mission
+
+-
+
+Use for Spice World or other trips that are part of the fun but not ordinary
+weekly stops.
+
+## Online or Deferred Purchases
 
 -
 
 ## Optional Specialty Upgrades
+
+-
+
+## By Function
+
+### On-Demand Perishables
+
+-
+
+### Stock Replenishment
+
+-
+
+### Recipe-Specific Non-Perishables
 
 -
 

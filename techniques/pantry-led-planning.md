@@ -12,8 +12,9 @@ worth cooking.
 3. List what is already stock.
 4. List on-demand perishables needed.
 5. List recipe-specific non-perishables separately.
-6. Cook and log what actually happened.
-7. Promote repeated successes into stable house recipes.
+6. Choose an equipment path that respects attention time and gas use.
+7. Cook and log what actually happened.
+8. Promote repeated successes into stable house recipes.
 
 ## Ingredient Classes
 
@@ -61,9 +62,22 @@ A good weekly candidate should answer:
 - Why does this fit the pantry now?
 - What fresh ingredients make it come alive?
 - What one-off purchases are required?
+- What equipment path does it use?
+- How much active attention does it need?
 - Will leftovers be welcome?
 - Is this low, medium, or high risk for a first cook?
 - What would make it become a house recipe?
+
+## Default Planning Shape
+
+- Plan around two mains plus support components.
+- Most normal recipes should yield `3` to `5` meals for one person.
+- Slow-cooker recipes can be larger, often `5` to `6` meals.
+- Quick exploratory recipes may be single-meal or `1` to `2` meal batches.
+- Meat is usually best treated as a high-impact accent unless the recipe or
+  tradition genuinely asks for it as the central bulk.
+- For bulk meals, include enough ingredient and portion-weight detail to make
+  Garmin calorie tracking easy.
 
 ## Early High-Return Patterns
 

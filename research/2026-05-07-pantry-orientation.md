@@ -242,6 +242,9 @@ This orientation has been promoted into:
 - `inventory/pantry.md`
 - `inventory/fridge.md`
 - `inventory/baking-crossover.md`
+- `inventory/equipment.md`
 - `inventory/on-demand.md`
+- `inventory/storage.md`
 - `inventory/wishlist.md`
+- `techniques/low-gas-and-equipment-use.md`
 - `techniques/pantry-led-planning.md`

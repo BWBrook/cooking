@@ -51,6 +51,8 @@ Good format:
 - Larger batches, potentially `5` to `6` meals.
 - Lean on legumes, grains, canned tomatoes, preserved acids, and small meat or
   canned-fish accents.
+- Make strong use of the `5.5` to `6 L` slow cooker where it avoids long gas
+  simmering.
 
 ### 4. Historical Anglo and Georgian Candidate Set
 
@@ -98,6 +100,20 @@ Good format:
 - `1` to `3` meal recipes.
 - Good use of fresh parsley, dill, lemon, or leafy greens bought on demand.
 
+### 7. Equipment Watch: Stick Blender
+
+Why now:
+
+- A hand-held stick blender is the clearest missing tool.
+- It would make slow-cooker soups, stews, pease pottage, sauces, and purees
+  easier without transferring hot liquid to the blender.
+
+Good format:
+
+- Do not require it yet.
+- When a candidate would clearly benefit from pot-based pureeing, flag the
+  stick blender as a useful acquisition.
+
 ## Standing Planning Rules
 
 - Default weekly plan: two mains plus support components.
@@ -107,6 +123,8 @@ Good format:
   exploratory.
 - Avoid long continuous gas stovetop cooking, especially `2` to `3` hour
   simmers.
+- Do not plan unattended open-flame gas cooking.
+- Avoid Teflon/nonstick-dependent methods because cockatiels are in the house.
 - Long unattended electric oven, air fryer, microwave, rice cooker, or slow
   cooker time is welcome.
 - Keep meat mostly as a garnish or accent unless the dish genuinely calls for

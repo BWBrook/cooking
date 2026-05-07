@@ -11,6 +11,7 @@ weekly perishables bought for a specific recipe.
 | Butter | Fat | Cooking, baking crossover, sauces, and finishing. |
 | Margarine | Fat | General use. |
 | Greek yogurt | Staple dairy | Reported as a staple; useful for sauces, bowls, marinades, and baking crossover. |
+| Free-range eggs | Staple protein / binder | User has active laying hens, so eggs are available in quantity and should be treated as a stock strength. |
 | Red miso paste | Fermented paste | Reported as already on hand; store refrigerated after opening. |
 | Kewpie mayonnaise | Condiment | Likely fridge item after opening. |
 | Preserved lemons | Preserved condiment | Refrigerate if label or opening status requires it. |
@@ -35,6 +36,4 @@ The following are normally on-demand weekly purchases rather than stock:
 
 ## Notes to Confirm
 
-- Whether eggs should be considered a cooking fridge staple here, as they are
-  tracked in the companion baking repo.
 - Which opened condiments currently live in the fridge versus pantry.

@@ -32,7 +32,7 @@ Source provenance:
 
 | Item | Role | Notes |
 | --- | --- | --- |
-| Green split peas | Pulse | Soups, dals, purees, and stews. |
+| Green split peas | Pulse | Soups, dals, purees, and stews. Use-soon priority: user has three large packets and is interested in medieval pease pottage. |
 | Yellow split peas | Pulse | Good with Indian-adjacent, Greek, and soup profiles. |
 | Green lentils | Pulse | Salads, stews, bowls, and French/Mediterranean profiles. |
 | Red lentils | Pulse | Fast dals, soups, sauces, and thickening. |

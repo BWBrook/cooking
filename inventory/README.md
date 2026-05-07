@@ -7,6 +7,7 @@ This directory holds the current ingredient baseline for the cooking notebook.
 - `baking-crossover.md` summarizes useful flour and baking-support context from
   `/Users/bwbrook/git/baking`.
 - `equipment.md` tracks the current cooking equipment baseline where known.
+- `storage.md` tracks fridge, freezer, container, and leftover assumptions.
 - `on-demand.md` defines items normally bought for a selected recipe or week.
 - `wishlist.md` tracks specialty-shop targets and possible future stock items.
 

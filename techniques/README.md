@@ -6,6 +6,7 @@ recipe.
 Examples:
 
 - pantry-led planning,
+- low-gas cooking and appliance choice,
 - blooming whole spices,
 - balancing acid and umami,
 - using canned fish well,
@@ -16,3 +17,4 @@ Examples:
 Current note files:
 
 - `pantry-led-planning.md`
+- `low-gas-and-equipment-use.md`
