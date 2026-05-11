@@ -24,31 +24,32 @@ the baseline:
 | Coconut milk | Added | Curry, dal, soup, and stew base. |
 | Greek yogurt | Confirmed staple | Sauces, marinades, bowls, and baking crossover. |
 | Sun-dried tomatoes | Added | Concentrated savoury depth for pulses, grains, TVP, and sauces. |
+| Fenugreek leaves, methi | Added 2026-05-11 | Hill Street Grocer. Distinctive pulse, tomato, and curry-style depth. |
+| Sichuan peppercorns, whole | Added 2026-05-11 | Hill Street Grocer. Opens citrus-numbing East Asian flavour axis. |
+| Aleppo pepper chilli flakes | Added 2026-05-11 | Hill Street Grocer. Warm fruity chilli without blunt cayenne heat. |
+| Asafoetida powder, hing | Added 2026-05-11 | Hill Street Grocer. Potent allium-like pulse/dal seasoning; use sparingly. |
+| Nigella seed, kalonji/kolonji | Added 2026-05-11 | Hill Street Grocer. Useful on flatbreads, eggs, legumes, and Middle Eastern/South Asian dishes. |
+| Celery seed, whole | Added 2026-05-11 | Hill Street Grocer. Soup, stew, pickle, tomato, fish, and stock-vegetable depth. |
+| Za'atar blend | Added 2026-05-11 | Hill Street Grocer. Useful with eggs, yogurt, flatbreads, pulses, tomato, sardines, and olive oil. |
 
 ## Highest-Value Specialty-Shop Targets
 
 | Item | Why it earns space | Likely use |
 | --- | --- | --- |
-| Aleppo pepper / pul biber | Warm fruity chilli without blunt heat. | Lentils, burghul, eggs, sardines, yogurt sauces, flatbreads. |
 | Urfa biber | Darker raisiny, smoky chilli. | Beans, tomatoes, lamb, eggplant, yogurt sauces. |
-| Fenugreek leaves / kasuri methi | Distinctive pulse and tomato depth. | Lentils, split peas, chickpeas, TVP, curry-style dishes. |
-| Nigella seeds | Distinct savoury seed note. | Flatbreads, eggs, legumes, Middle Eastern-style dishes. |
 | Dried porcini or mushroom powder | Major vegetarian umami upgrade. | Barley, lentils, TVP, beans, tomato, gravy. |
 | Pomegranate molasses | Sweet-sour depth. | Lentils, burghul, sardines, chickpeas, roasted vegetables. |
 | Chinkiang black vinegar | Major East Asian acid gap. | Noodles, rice bowls, mushrooms, eggs, braises. |
 | Savoury, summer or winter | Classic bean herb. | Beans, lentils, soups, stews. |
 | Curry leaves | Strong South Indian pathway. | Lentils, rice, coconut, vegetable curries. |
-| Asafoetida / hing | Potent allium-like dal depth. | Dals and pulse dishes; use sparingly. |
 | Amchur / dried mango powder | Dry sourness without adding liquid. | Chickpeas, potatoes, chutney-like sauces. |
 | Dried limes / loomi | Sour-bitter perfume. | Lentil, bean, tomato, and fish stews. |
 | Kashmiri chilli powder | Mild heat and rich colour. | Indian-adjacent dishes. |
-| Sichuan peppercorns | Opens citrusy numbing flavour axis. | Noodles, eggs, tofu, fish, chilli sauces. |
 | White pepper | Useful lighter pepper profile. | Japanese/Chinese soups, eggs, fish, rice dishes. |
 | MSG / Ajinomoto | Pure umami control. | Any dish needing savour without soy, fish, yeast, or extra salt. |
 
 ## Optional Cuisine-Space Openers
 
-- za'atar,
 - harissa paste,
 - gochujang,
 - gochugaru,
@@ -63,6 +64,15 @@ the baseline:
 - roasted capsicum strips,
 - pickled onions,
 - cornichons.
+
+## Still Pending: Spice World Final-Boss Run
+
+The 2026-05-11 Hill Street pickup cleared several high-value gaps. The next
+specialty trip can focus on ingredients still hard to cover from ordinary
+supermarkets, especially Urfa biber, dried porcini or mushroom powder,
+pomegranate molasses, Chinkiang black vinegar, savoury, curry leaves, amchur,
+dried limes, Kashmiri chilli, white pepper, MSG, chilli crisp, fermented black
+beans, and dried East Asian seaweeds/mushrooms.
 
 ## Promotion Rule
 

@@ -109,6 +109,7 @@ Source provenance:
 | Parsley flakes | Dried herb | Background green note; fresh parsley remains higher impact. |
 | Mixed herbs | Dried blend | Marjoram, sage, and thyme. |
 | Italian herbs | Dried blend | Compound blend with garlic, tomato, onion, basil, pepper, oregano, parsley, marjoram, red bell pepper, and canola oil. |
+| Fenugreek leaves, methi | Dried herb / spice herb | Added 2026-05-11 from Hill Street Grocer. High-value with lentils, split peas, chickpeas, TVP, tomato, and curry-style dishes. |
 
 ## Core Savoury Spices
 
@@ -122,8 +123,11 @@ Source provenance:
 | Coriander seed | Whole spice | Core Middle Eastern, Indian-adjacent, and pickle spice. |
 | Fennel seeds | Whole spice | Fish, sausage-like profiles, tomato, and pulses. |
 | Caraway seeds | Whole spice | Rye/bread crossover, cabbage, potatoes, and historical register. |
+| Nigella seed, kalonji/kolonji | Whole spice seed | Added 2026-05-11 from Hill Street Grocer. Useful on flatbreads, eggs, legumes, and Middle Eastern or South Asian dishes. |
+| Celery seed | Whole spice seed | Added 2026-05-11 from Hill Street Grocer. Tiny amounts add soup, stew, pickle, tomato, fish-cake, and stock-vegetable depth. |
 | Mustard powder | Spice | Dry mustard heat and savour. |
 | Mustard seeds | Whole spice | Added after initial list; bloom in oil for dals, pickles, and vegetable dishes. |
+| Asafoetida powder, hing | Potent spice | Added 2026-05-11 from Hill Street Grocer. Use sparingly for allium-like dal and pulse depth. |
 | Ground ginger | Spice | Dals, curries, bakes, and sweet-spice profiles. |
 | Ground cardamom | Spice | Sweet and savoury spice use. |
 | Nutmeg | Spice | Dairy, greens, bakes, and historical profiles. |
@@ -131,6 +135,7 @@ Source provenance:
 | Ground cloves | Spice | Strong sweet-savory spice; use sparingly. |
 | Star anise | Spice | Chinese-ish, braise, broth, and sweet applications. |
 | Allspice | Spice | Warm spice for stews, pickles, and bakes. |
+| Sichuan peppercorns, whole | Whole spice | Added 2026-05-11 from Hill Street Grocer. Citrus-numbing spice for noodles, eggs, tofu, fish, mushrooms, and chilli oils. |
 | Black pepper, ground | Pepper | General seasoning. |
 | Cracked black pepper | Pepper | General seasoning with stronger texture. |
 | Sea salt | Salt | General seasoning. |
@@ -141,6 +146,7 @@ Source provenance:
 | Item | Role | Notes |
 | --- | --- | --- |
 | Hot dried chillies | Whole chilli | Clean heat and infusions. |
+| Aleppo pepper chilli flakes | Chilli flakes | Added 2026-05-11 from Hill Street Grocer. Warm, fruity chilli for lentils, burghul, eggs, sardines, yogurt sauces, and flatbreads. |
 | Ground chilli | Chilli powder | General heat. |
 | Cayenne pepper | Chilli powder | Sharp heat. |
 | Chipotle seasoning | Seasoned chilli blend | Smoky heat. |
@@ -157,6 +163,7 @@ Source provenance:
 | Curry powder | Blend | General curry-style base. |
 | Japanese Golden Curry | Curry block / mix | Japanese curry rice and stew base. |
 | Chinese five spice | Blend | Braises, rice bowls, and sweet-savory sauces. |
+| Za'atar blend | Blend | Added 2026-05-11 from Hill Street Grocer. Use with eggs, yogurt, flatbreads, pulses, tomato, sardines, and olive oil. Composition to confirm from label. |
 | Gravy powder, chicken/beef | Powdered sauce base | Convenience savoury thickener. |
 | Vegetable stock | Stock powder | Soup, grains, pulses. |
 | Beef stock | Stock powder | Soup, stews, gravies. |
@@ -217,5 +224,5 @@ These are cooking-relevant pantry items. Detailed baking inventory remains in
 - The canned black beans and canned kidney beans were marked uncertain in the
   initial list and should be confirmed when the pantry is next checked.
 - The strongest dried herbs on hand are bay, rosemary, thyme, oregano, sage,
-  tarragon, dill, and marjoram. Dried parsley, coriander leaf, chives, and
-  basil are best treated as background green notes.
+  tarragon, dill, marjoram, and fenugreek leaves. Dried parsley, coriander
+  leaf, chives, and basil are best treated as background green notes.

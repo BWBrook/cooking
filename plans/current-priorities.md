@@ -43,6 +43,10 @@ Why now:
 - Dry herbs and spices are specifically underused.
 - The repo's job is partly to prevent pantry amnesia and samey recipes.
 - Historical reconstructions can draw on interesting corners of the larder.
+- The 2026-05-11 Hill Street pickup added fenugreek leaves, Sichuan
+  peppercorns, Aleppo pepper, asafoetida, nigella seed, celery seed, and
+  za'atar, opening much stronger Indian-adjacent, Middle Eastern, and East
+  Asian directions.
 
 Good format:
 
