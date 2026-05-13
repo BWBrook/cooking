@@ -48,6 +48,8 @@ Use this repo to help the user:
   one recipe.
 - `input/` stores raw provenance files. Promote useful material out of it, but
   do not overwrite provenance files unless the user asks.
+- `build/` stores generated outputs such as Kindle `EPUB` files and delivery
+  reports; it is not tracked in git.
 
 ## Ingredient Model
 
@@ -81,6 +83,8 @@ need to be bought.
   destination files and then reset the intake file for reuse.
 - Do not treat ordinary weekly perishables as stock inventory unless the user
   says they are normally kept on hand.
+- Kindle delivery config is local-only in `.cooking.local.yml`; never commit
+  Kindle addresses, sender addresses, or SMTP secrets.
 
 ## Current Household Defaults
 

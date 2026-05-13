@@ -85,6 +85,26 @@ The starting pantry is strongest around:
 6. Cook, then record the result in `cook_logs/`.
 7. Update the recipe only after the log captures what actually happened.
 
+## Kindle and EPUB
+
+Recipes and research notes can be built as Kindle-friendly `EPUB` files.
+
+Useful commands:
+
+```bash
+make kindle-list
+make epub FILE=recipes/historical/medieval-pease-pottage-slow-cooker.md
+make epub FILE=recipes/historical/medieval-pease-pottage-slow-cooker.md INCLUDE_RESEARCH=1
+make kindle-init-config
+make kindle-preflight FILE=recipes/historical/medieval-pease-pottage-slow-cooker.md
+make kindle FILE=recipes/historical/medieval-pease-pottage-slow-cooker.md
+```
+
+Generated files land under `build/kindle/` and are not tracked in git. Kindle
+delivery uses a local-only config at `.cooking.local.yml`, seeded from the
+existing creative-writer Kindle config when available. SMTP passwords are read
+from the environment or macOS Keychain; they are not stored in this repo.
+
 ## Related Repository
 
 The companion baking notebook lives at `/Users/bwbrook/git/baking`. Its flour,
