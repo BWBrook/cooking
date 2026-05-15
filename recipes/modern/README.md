@@ -14,3 +14,8 @@ Each recipe should make clear:
 - equipment path,
 - batch and portion assumptions,
 - and what should be checked after the first cook.
+
+## Current Recipes
+
+- `tuna-pulse-pasta-bake.md` - packet-derived pantry/convenience bake.
+- `miso-mushroom-steel-cut-oat-risotto.md` - rice-cooker savoury oat bowl.
