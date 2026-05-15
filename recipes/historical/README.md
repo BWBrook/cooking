@@ -14,3 +14,10 @@ major part of the appeal. Each recipe should separate:
 
 Recipes here can be trial recipes. They become trusted house recipes only after
 actual cooking and judgement.
+
+## Current Recipes
+
+- `medieval-pease-pottage-slow-cooker.md` - slow-cooker English pease pottage.
+- `medieval-herbolace-erbolate-herb-egg-cake.md` - baked herb-and-egg cake.
+- `medieval-oat-gruels-drawyn-grwel-gruelle-aforsydde.md` - paired Harleian
+  oat gruels.
