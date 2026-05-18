@@ -20,3 +20,5 @@ Each recipe should make clear:
 - `tuna-pulse-pasta-bake.md` - packet-derived pantry/convenience bake.
 - `miso-mushroom-steel-cut-oat-risotto.md` - rice-cooker savoury oat bowl.
 - `quick-savoury-tvp-instant-oats.md` - five-minute protein savoury porridge.
+- `quick-tvp-cottage-style-pie-with-deb-mash.md` - double-serving TVP pie with
+  instant mash topping.

@@ -27,6 +27,7 @@ Source provenance:
 | Pearl barley | Grain | Strong fit for soups, stews, risotto-style dishes, and historical-modern cooking. |
 | Pulse pasta | Pasta | Legume-based quick meal base. |
 | Konjac pasta | Low-energy noodle/pasta | Best treated as a distinct texture rather than ordinary pasta. |
+| Deb instant mashed potato / potato flakes | Convenience potato starch | Reported for modern cottage/shepherd's-pie style recipes; also useful for croquettes, patties, thickening, and potato breads. Also tracked in baking crossover. |
 
 ## Pulses, Legumes, and Legume Products
 
