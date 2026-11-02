@@ -1,5 +1,7 @@
 # Cooking Notebook
 
+> **Status:** developed in the open as a working record. This is work in progress: contents may change, and nothing here is peer-reviewed unless stated.
+
 This repository is a versioned home-cooking notebook for pantry inventory,
 recipe discovery, weekly cooking plans, shopping decisions, and kitchen
 outcomes.
@@ -110,3 +112,7 @@ from the environment or macOS Keychain; they are not stored in this repo.
 The companion baking notebook lives at `/Users/bwbrook/git/baking`. Its flour,
 baking support, and equipment inventories are summarized here only where they
 matter for general cooking.
+
+## Licence
+
+Code is released under the [MIT Licence](LICENSE). Text, figures and data created for this project are released under [CC BY-SA 4.0](LICENSE-CONTENT). Third-party material keeps its own terms where stated.
